@@ -5,7 +5,7 @@
 ###### 2019년 3월 ~
 
 #### 연구 주제
-- AI를 이용한 낙상방지 시스템 제작[https://drive.google.com/file/d/1FvCFugVarFovhI-7CuuYcXfbWZNXSpor/view?usp=sharing]
+- [AI를 이용한 낙상방지 시스템 제작](https://drive.google.com/file/d/1FvCFugVarFovhI-7CuuYcXfbWZNXSpor/view?usp=sharing)
 - 영상 처리를 이용한 차량 번호판 인식 시스템
 - CNN을 이용한 얼굴 인식
 - 소프트웨어 품질 관리
