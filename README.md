@@ -3,7 +3,6 @@
 ### 소속 : 컴퓨터소프트웨어공학과 스마트 교통 연구실
 
 #### 팀 프로젝트 개발 목록
-=============
 * C
 	* [MoveMove](https://github.com/emboob/DB-TeamProject)
 		* 여행 중 영화 및 드라마 소개 시스템
