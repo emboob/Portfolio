@@ -61,7 +61,7 @@
 		*	D-Day, Reminder, Alarm, Gift Recommend 기능을 가진 안드로이드 일정 관리 어플리케이션
 
 
-* HTML&CSS&JAVAScript
+* HTML & CSS & JAVAScript
 	* [동의대학교 학생 웹 게시판](https://github.com/emboob/Internet-Programming)
 		* 동의대학교 학생 웹 게시판 제작 및 파이어베이스 호스팅
 
