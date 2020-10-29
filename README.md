@@ -2,7 +2,7 @@
 =============
 ### 소속 : 컴퓨터소프트웨어공학과 권순각 교수님의 스마트 교통 연구실
 
-###### 2019년 3월 ~
+###### 2018년 10월 ~
 
 #### 연구 주제
 - [AI를 이용한 낙상방지 시스템 제작](https://drive.google.com/file/d/1FvCFugVarFovhI-7CuuYcXfbWZNXSpor/view?usp=sharing)
