@@ -15,7 +15,7 @@
 - 2019.3.1 ~ 2020.2.29. 컴퓨터소프트웨어공학과 봉사 동아리 회장 활동 및 SW 코딩 교육 봉사활동 50시간 이상
 
 #### 수상경력
-- 2019.10.19 TOPCIT 405점
+- 2019.10.19 [TOPCIT](https://www.topcit.or.kr/info/overview/overview.do) 405점
 ![TOPCIT SCORE](./TOPCIT.PNG)
 - 2019.11.15 2019 멀티미디어학회 추계학술발표대회 우수논문
 ![scholar](./scholar.PNG)
