@@ -26,8 +26,8 @@
 
 #### 경험
 - 언어: C,C++, java, python, html, css, js, jsp, sql
-- 운영체제: Windows, Linux, mac OS
-- 임베디드: Arduino Uno, Erle-brain, Raspberry PI
+- 운영체제: Windows, Linux,
+- 임베디드: Arduino Uno, Raspberry PI
 - 기타: 안드로이드, OpenGL, 자료구조 
 - 백엔드: flask
 
