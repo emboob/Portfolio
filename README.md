@@ -1,8 +1,9 @@
 동의대학교 4학년 20153265 김동현 포트폴리오
 =============
-### 소속 : 컴퓨터소프트웨어공학과 권순각 교수님의 스마트 교통 연구실
 
-###### 2018년 10월 ~
+###### 2018년 10월 ~ 2020년 12월
+
+### 소속 : 컴퓨터소프트웨어공학과 권순각 교수님의 스마트 교통 연구실
 
 #### 연구 주제
 - AI를 이용한 낙상 상황 검출 구현
@@ -27,10 +28,10 @@
 - 정보처리기사 취득중(현재 필기 합격)
 
 #### 경험
-- 언어: C,C++, java, python, html, css, js, jsp, sql
-- 운영체제: Windows, Linux,
+- 언어: C, C++, java, python, html, css, js, jsp, sql
+- 운영체제: Windows, Linux
 - 임베디드: Arduino Uno, Raspberry PI
-- 기타: 안드로이드, OpenGL, 자료구조 
+- 기타: 안드로이드, OpenGL, 자료구조
 - 백엔드: flask
 
 
@@ -47,20 +48,20 @@
 * JAVA
 	* [SearchMyPokemon](https://github.com/emboob/SW-DesignEngineering)
 		* 사용자별 포켓몬 추천 시스템 및 포켓몬 이상형 월드컵
-	*	[ROS](https://github.com/emboob/Object-oriented-modeling)
+	* [ROS](https://github.com/emboob/Object-oriented-modeling)
 		* ROS를 이용하여 미로탈출 및 주행시험장 주행
 
 
 * Python
-	*	[ROS](https://github.com/emboob/Object-oriented-modeling)
+	* [ROS](https://github.com/emboob/Object-oriented-modeling)
 		* ROS를 이용하여 미로탈출 및 주행시험장 주행
 	* [Smart Umbrella Stand](https://github.com/emboob/embedded_TeamProject)
 		* 날씨 알림 기능이 있는 스마트 우산꽂이
 		
 		
 * Android
-	*	[DayLight](https://github.com/emboob/Android)
-		*	D-Day, Reminder, Alarm, Gift Recommend 기능을 가진 안드로이드 일정 관리 어플리케이션
+	* [DayLight](https://github.com/emboob/Android)
+		* D-Day, Reminder, Alarm, Gift Recommend 기능을 가진 안드로이드 일정 관리 어플리케이션
 
 
 * HTML & CSS & JAVAScript
