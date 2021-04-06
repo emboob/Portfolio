@@ -1,9 +1,17 @@
-동의대학교 4학년 20153265 김동현 포트폴리오
+부산대학교 AI전공 석사과정 1 김동현 포트폴리오
 =============
 
-###### 2018년 10월 ~ 2020년 12월
+###### 2021년 2월 ~
 
-### 소속 : 컴퓨터소프트웨어공학과 권순각 교수님의 스마트 교통 연구실
+### 소속 : 부산대학교 정보융합공학과 이명호 교수님의 XR Lab
+
+#### 연구 주제
+- Unity 3D를 이용한 VR 프로그램 개발 및 구현
+- Diminished Reality 연구
+
+###### 2018년 10월 ~ 2020년 1월
+
+### 소속 : 동의대학교 컴퓨터소프트웨어공학과 권순각 교수님의 스마트 교통 연구실
 
 #### 연구 주제
 - AI를 이용한 낙상 상황 검출 구현
@@ -28,10 +36,10 @@
 - 정보처리기사 취득중(현재 필기 합격)
 
 #### 경험
-- 언어: C, C++, java, python, html, css, js, jsp, sql
+- 언어: C, C++, java, C#, python, html, css, js, jsp, sql 
 - 운영체제: Windows, Linux
 - 임베디드: Arduino Uno, Raspberry PI
-- 기타: 안드로이드, OpenGL, 자료구조
+- 기타: 안드로이드, OpenGL, 자료구조, Unity
 - 백엔드: flask
 
 
@@ -44,27 +52,26 @@
 	* [Chatting](https://github.com/emboob/SP-Chat)
 		* C언어로 GUI를 이용한 채팅기능 구현
 		
-		
 * JAVA
 	* [SearchMyPokemon](https://github.com/emboob/SW-DesignEngineering)
 		* 사용자별 포켓몬 추천 시스템 및 포켓몬 이상형 월드컵
 	* [ROS](https://github.com/emboob/Object-oriented-modeling)
 		* ROS를 이용하여 미로탈출 및 주행시험장 주행
 
-
 * Python
 	* [ROS](https://github.com/emboob/Object-oriented-modeling)
 		* ROS를 이용하여 미로탈출 및 주행시험장 주행
 	* [Smart Umbrella Stand](https://github.com/emboob/embedded_TeamProject)
 		* 날씨 알림 기능이 있는 스마트 우산꽂이
-		
-		
+			
 * Android
 	* [DayLight](https://github.com/emboob/Android)
 		* D-Day, Reminder, Alarm, Gift Recommend 기능을 가진 안드로이드 일정 관리 어플리케이션
-
 
 * HTML & CSS & JAVAScript
 	* [동의대학교 학생 웹 게시판](https://github.com/emboob/Internet-Programming)
 		* 동의대학교 학생 웹 게시판 제작 및 파이어베이스 호스팅
 
+* C# & Unity
+	* [Unity 3D Oculus Running Simulator](https://github.com/emboob/OculusRunningSimulator)
+		* Unity 3D로 제작하는 VR Oculus 달리기(조깅) 시뮬레이터
