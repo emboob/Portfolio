@@ -1,6 +1,6 @@
 부산대학교 AI전공 석사과정 김동현 포트폴리오
 =============
-##### Contact : emboob@naver.com
+##### Contact : dk13fk@naver.com
 
 ###### 2021년 2월 ~
 
