@@ -4,7 +4,7 @@
 
 ###### 2021년 2월 ~
 
-### 소속 : 부산대학교 정보융합공학과 [이명호 교수님](https://sites.google.com/view/xrhci/people?authuser=0)의 XR Lab
+### 소속 : 부산대학교 정보융합공학과 [이명호 교수님](https://sites.google.com/view/xrhci/people)의 [XR Lab](https://sites.google.com/view/xrhci/home)
 
 #### 연구 주제
 - Unity 3D를 이용한 VR 프로그램 개발 및 구현
