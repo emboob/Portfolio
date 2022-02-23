@@ -38,7 +38,7 @@
 - 2020.12.04 [부산미래과학자상 대학생공학 우수상](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=2100&key=20201204.22020001270)
 
 #### 자격증
-- 정보처리기사 취득중(현재 필기 합격)
+- 정보처리기사 취득
 
 #### 경험
 - 언어: C, C++, java, C#, python, html, css, js, jsp, sql 
