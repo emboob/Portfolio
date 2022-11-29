@@ -8,7 +8,9 @@
 
 #### 연구 주제
 - Unity 3D를 이용한 VR 프로그램 개발 및 구현
-- VR 환경 내에서의 운동에 관한 연구 및 개발
+- VR 환경 내에서의 운동(VR Locomotion)에 관한 연구 및 개발
+	- VRST2021 [Effects of User’s Gaze on the Unintended Positional Drift in Walk-in-Place](https://dl.acm.org/doi/10.1145/3489849.3489928)
+	- KSC2022 가상현실 헤드셋의 무게중심이 Walk-In-Place에서 발생하는 의도치 않은 사용자 위치이동에 미치는 영향에 관한 연구
 
 <hr/>
 
