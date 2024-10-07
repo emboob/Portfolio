@@ -1,6 +1,6 @@
 부산대학교 AI전공 석사과정 김동현 포트폴리오
 =============
-##### Contact : dteemoo@gmail.com
+##### Contact : emboob@pusan.ac.kr
 
 ###### 2021년 2월 ~
 
