@@ -11,7 +11,7 @@
 - VR 환경 내에서의 운동(VR Locomotion)에 관한 연구 및 개발
 	- VRST2021 [Effects of User’s Gaze on the Unintended Positional Drift in Walk-in-Place](https://dl.acm.org/doi/10.1145/3489849.3489928)
 	- KSC2022 가상현실 헤드셋의 무게중심이 Walk-In-Place에서 발생하는 의도치 않은 사용자 위치이동에 미치는 영향에 관한 연구
- 	- JDCS2024 Walk-In-Place 시행 시 의도치 않은 사용자 위치 이동에 영향을 미치는 요인 탐구
+ 	- JDCS2023 Walk-In-Place 시행 시 의도치 않은 사용자 위치 이동에 영향을 미치는 요인 탐구
 
 <hr/>
 
